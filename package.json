@@ -1,0 +1,14 @@
+{
+  "name": "codewars-katas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "acha",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "jest": "^29.3.1"
+  }
+}
